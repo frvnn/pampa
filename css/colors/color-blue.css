@@ -1,3 +1,17 @@
+.color-primary {
+	color: #ffab91;
+}
+
+.color-secondary {
+	color: #ffddc1;
+}
+
+.color-terc {
+	color: #c97b63;
+}
+.color-acc {
+	color: #c46042;
+}
 
 
 .portfolio-box-1 .mask,
@@ -18,7 +32,7 @@
 .sidebar-list-two li a:hover,
 #ajax-form button:hover,
 #cd-zoom-in, #cd-zoom-out{
-	background-color: #363dc2;
+	background-color: #ffab91;
 }
 .cbp-af-header.cbp-af-header-shrink .menu ul li ul li a.curent-multi-page,
 .cbp-af-header.cbp-af-header-shrink .menu ul li ul li a.curent-multi-page:hover,
@@ -34,38 +48,38 @@
 .comm-link,
 .sidebar-list-one li a:hover,
 .comment a{
-	color:#6e73d7;
+	color:#ffab91;
 }
 .menu ul li:hover a.shadow-hover{
-	text-shadow: -7px 6px 0 #202692;
+	text-shadow: -7px 6px 0 #c46042;
 }
 .menu ul li a.curent-shadow{
-	text-shadow: -7px 6px 0 #202692;
+	text-shadow: -7px 6px 0 #c97b63;
 }
 .content__link,
 .home-text-freelance h2 span,
 .subscribe button:hover{
-	color:#202692;
+	color:#c46042;
 }
 .decoshape.arrow-top,
 .content__link:hover .decoshape {
-	fill: #202692;
+	fill: #c46042;
 }
 .content .content__mask{
-	background-color: #363dc2;
+	background-color: #ffffff75;
 }
 .morph {
 	fill: #282faf;
 }
 .list-social-footer li:hover{
-	background-color: #202692;
+	background-color: #c46042;
 }
 .portfolio-box-1 .text-on-hover,
 .case-study-wrapper li a span,
 .home-text-freelance .link,
 .tipper .tipper-content,
 .team-wrap h6 {
-	text-shadow: -5px 4px 0 #202692;
+	text-shadow: -5px 4px 0 #c46042;
 }
 #filter li a:hover,
 #filter li .current,

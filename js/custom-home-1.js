@@ -17,13 +17,13 @@
 	var selectors = new Selector_Cache();
 
 
-	//Preloader
+	//Preloader CONFIG
 
 	Royal_Preloader.config({
         mode:        'scale_text',
         text:        'pampa',
         text_colour: '#FFFFFF',
-		background:  '#363dc2'
+		background:  '#ffab91'
 	});
 
 	
