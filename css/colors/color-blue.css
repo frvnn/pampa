@@ -1,16 +1,16 @@
 .color-primary {
-	color: #ffab91;
+	color: #89CE94;
 }
 
 .color-secondary {
-	color: #ffddc1;
+	color: #7D5BA6;
 }
 
 .color-terc {
-	color: #c97b63;
+	color: #7D5BA6;
 }
 .color-acc {
-	color: #c46042;
+	color: #643173;
 }
 
 
@@ -32,7 +32,7 @@
 .sidebar-list-two li a:hover,
 #ajax-form button:hover,
 #cd-zoom-in, #cd-zoom-out{
-	background-color: #ffab91;
+	background-color: #89CE94;
 }
 .cbp-af-header.cbp-af-header-shrink .menu ul li ul li a.curent-multi-page,
 .cbp-af-header.cbp-af-header-shrink .menu ul li ul li a.curent-multi-page:hover,
@@ -48,38 +48,38 @@
 .comm-link,
 .sidebar-list-one li a:hover,
 .comment a{
-	color:#ffab91;
+	color:#89CE94;
 }
 .menu ul li:hover a.shadow-hover{
-	text-shadow: -7px 6px 0 #c46042;
+	text-shadow: -7px 6px 0 #643173;
 }
 .menu ul li a.curent-shadow{
-	text-shadow: -7px 6px 0 #c97b63;
+	text-shadow: -7px 6px 0 #7D5BA6;
 }
 .content__link,
 .home-text-freelance h2 span,
 .subscribe button:hover{
-	color:#c46042;
+	color:#643173;
 }
 .decoshape.arrow-top,
 .content__link:hover .decoshape {
-	fill: #c46042;
+	fill: #643173;
 }
 .content .content__mask{
 	background-color: #ffffff75;
 }
 .morph {
-	fill: #282faf;
+	fill: #643173;
 }
 .list-social-footer li:hover{
-	background-color: #c46042;
+	background-color: #643173;
 }
 .portfolio-box-1 .text-on-hover,
 .case-study-wrapper li a span,
 .home-text-freelance .link,
 .tipper .tipper-content,
 .team-wrap h6 {
-	text-shadow: -5px 4px 0 #c46042;
+	text-shadow: -5px 4px 0 #643173;
 }
 #filter li a:hover,
 #filter li .current,
@@ -87,20 +87,20 @@
 	text-shadow: -7px 5px 0 rgba(54,61,194,.3);
 }
 .home-text-freelance.shadow-text h2{
-	text-shadow: -9px 7px 0 #202692;
+	text-shadow: -9px 7px 0 #643173;
 }
 .home-video {	
-	outline: 1px double #363dc2;
+	outline: 1px double #643173;
 }
 figure.vimeo a:before, figure.youtube a:before {
-	border-left: 10px solid #363dc2;
+	border-left: 10px solid #643173;
 }
 figure.vimeo:hover a:after, figure.youtube:hover a:after {
-	background:#363dc2;
+	background:#6431732;
 }
 .tooltip__shape,
 .tooltip--sadoc .tooltip__shape path {
-	fill: #363dc2;
+	fill: #643173;
 }
 .tooltip--sadoc .tooltip__shape path {
 	stroke: rgba(54,61,194,.3);
@@ -111,27 +111,27 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after {
 	text-shadow: -4px 3px 0 rgba(54,61,194,.3);
 }
 .post-wrapper blockquote{ 
-	border-left:3px solid #363dc2;
+	border-left:3px solid #643173;
 }
 .sidebar-search input:active,
 .sidebar-search input:focus {	
-	border-bottom:1px solid #363dc2;
+	border-bottom:1px solid #643173;
 }
 .subscribe input:active,
 .subscribe input:focus {	
-	border-bottom:1px solid #363dc2;
+	border-bottom:1px solid #643173;
 }
 .sidebar-list-one li:before{ 
-	border:1px solid #363dc2;
+	border:1px solid #643173;
 }
 .sidebar-list-two li a:hover{
-	border:2px solid #363dc2;
+	border:2px solid #643173;
 }
 #ajax-form textarea:focus,
 #ajax-form input:focus,
 #ajax-form textarea:active,
 #ajax-form input:active {	
-	border-bottom:1px solid #363dc2;
+	border-bottom:1px solid #643173;
 }
 
 

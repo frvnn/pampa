@@ -298,7 +298,7 @@ body.royal_preloader {
 	margin-bottom: 0;
 }
 .menu-back{
-	background: rgba(0,0,0,0);
+	background: rgba(0,0,0,.9));
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -312,7 +312,7 @@ body.royal_preloader {
 }
 
 .cbp-af-header.cbp-af-header-shrink {
-	background: rgba(0,0,0,.93);
+	background: rgba(0,0,0,.9);
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -597,14 +597,14 @@ Mobile style's
 @media only screen and (max-width: 1199px) {
 
 	.menu-back{
-		background: rgba(0,0,0,.93);
+		background: rgba(0,0,0,.9);
 		-webkit-transition : all 0.3s ease-out;
 		-moz-transition : all 0.3s ease-out;
 		-o-transition :all 0.3s ease-out;
 		transition : all 0.3s ease-out;
 	}
 	.cbp-af-header.cbp-af-header-shrink {
-		background: rgba(0,0,0,.93);
+		background: rgba(0,0,0,.9);
 		-webkit-transition : all 0.3s ease-out;
 		-moz-transition : all 0.3s ease-out;
 		-o-transition :all 0.3s ease-out;
@@ -616,7 +616,7 @@ Mobile style's
 		height:18px;
 		z-index:10000;
 		top:30px;
-		background:url('../images/logo-light.png') no-repeat center center;
+		background:url('../images/pampl.png') no-repeat center center;
 		background-size:100px 18px;
 		-webkit-transition : all 0.3s ease-out;
 		-moz-transition : all 0.3s ease-out;
@@ -629,7 +629,7 @@ Mobile style's
 		height:18px;
 		z-index:10000;
 		top:30px;
-		background:url('../images/logo-light.png') no-repeat center center;
+		background:url('../images/pampl.png') no-repeat center center;
 		background-size:100px 18px;
 		-webkit-transition : all 0.3s ease-out;
 		-moz-transition : all 0.3s ease-out;
