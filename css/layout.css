@@ -1530,7 +1530,7 @@ figure.vimeo a img, figure.youtube a img {
 	margin-left:40px;
 	margin-right:30px;
 	text-align:center;
-	opacity: 0.8;
+	opacity: 1;
 	display:block;
 	pointer-events: auto;
 }
@@ -2107,7 +2107,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-weight:400;
 	font-size: 20px;
 	line-height:28px;
-	color:#999;
+	color:#F3F6F5;
 	opacity:.6;
 	font-style: italic;
 }
